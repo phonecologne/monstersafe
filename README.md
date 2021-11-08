@@ -4,9 +4,8 @@ Monster Safe: COVID19 map and information per state
 
 Group Members: Kaylin, Jeremy, Perk, and Gregory
 
-hosted on GitHub: https://perkthong.github.io/monstersafe/
+hosted on GitHub: https://phonecologne.github.io/monstersafe/
 
-<<<<<<< HEAD
 # API's from:
 1) https://covidactnow.org/data-api free API that shows COVID data for all 50 states
 2) http://www.heatmapapi.com/Default.aspx free heat map API
@@ -27,7 +26,6 @@ If people are feeling like too much irrelevant information is flooding out of al
 2) http://www.heatmapapi.com/Default.aspx free heat map API
 
 CSS with BULMA
->>>>>>> 6b65021a1ff78499dcaeaca316b7460117b42964
 
 # Future goals:
 
